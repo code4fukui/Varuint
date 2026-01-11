@@ -21,6 +21,8 @@ console.log(bin); // Uint8Array(2) [172, 2]
 
 const n = Varuint.decode(bin);
 console.log(n); // 300
+const len = Varuint.length(n);
+console.log(len); // 2
 ```
 
 ## API
