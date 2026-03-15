@@ -1,5 +1,7 @@
 # Varuint (JavaScript / Deno / Browser)
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 Varuint is an implementation of Unsigned Varint (LEB128-like, 7-bit + continuation bit) encoding and decoding. It can be used directly via URL import in Deno and the browser.
 
 ## Features
