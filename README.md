@@ -86,4 +86,4 @@ deno test
 
 ## License
 
-[MIT](LICENSE)
+MIT License — see [LICENSE](LICENSE).
